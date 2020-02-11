@@ -1,0 +1,15 @@
+{
+    "description": "I created a camera capable of reproducing the famous Dolly Zoom effect popularized by movies such as Jaws (1975) and Vertigo (1958).",
+    "ignore": [
+        "*.jpg",
+        "*.psd"
+    ],
+    "logo": "B:/Projects/dolly-zoom_psd/dollyzoom.jpg",
+    "tags": [
+        "scenic",
+        "movie"
+    ],
+    "title": "Dolly Zoom Tool",
+    "type": "tool",
+    "workshopid": 1994882137.0
+}
